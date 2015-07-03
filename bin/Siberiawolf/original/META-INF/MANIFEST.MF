@@ -1,0 +1,93 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-hdpi-v4/default_ptr_flip.png
+SHA1-Digest: utyjRrq5f6+8F2OB5pzS7O311+A=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: pyREWODr47Bd61MseILxSnMtqmg=
+
+Name: res/drawable-xhdpi-v4/indicator_arrow.png
+SHA1-Digest: um4AJv5apISRneNtbh8WLLkpZRU=
+
+Name: res/drawable-xhdpi-v4/default_ptr_rotate.png
+SHA1-Digest: t/EWNx5KCTTuRi9Z9ZeK0WKINew=
+
+Name: res/raw/pull_event.mp3
+SHA1-Digest: vEMl2wJ20P9ESdIHZ5rjQ5s0cBc=
+
+Name: resources.arsc
+SHA1-Digest: er9yyVTajR+JAkimC/QVHnRsG4k=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: WITNEwDLVkSRxA9GVy1TLBJVpJc=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: jBkoFn/Q/2yd3wkPfjanopZz7Sk=
+
+Name: res/drawable-xhdpi-v4/default_ptr_flip.png
+SHA1-Digest: TM76EzvlTJvDXOEmB/KSr08NlPM=
+
+Name: res/drawable-hdpi-v4/default_ptr_rotate.png
+SHA1-Digest: 5fhhKnc5nsXFo+qN0e2EGmx2oOg=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ZafBMJXat03lAP4MKKn9XjGp6lw=
+
+Name: res/drawable-mdpi-v4/indicator_arrow.png
+SHA1-Digest: CnmqGKOqSpfn7Eqj6xBVSoyuwq8=
+
+Name: res/layout/pull_to_refresh_header_horizontal.xml
+SHA1-Digest: marsfN/BM2xEn+y+S+6QFqupha8=
+
+Name: res/drawable-hdpi-v4/indicator_arrow.png
+SHA1-Digest: FPN2bVWHSbSP48fOXIXFICXwfNE=
+
+Name: res/layout/need_this_for_maven.xml
+SHA1-Digest: yiYXAunNjRZPYCKdNsw/h6KY67M=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: wVVsQ3Ee5iNAEnrY497Hy/mmSyw=
+
+Name: res/drawable-mdpi-v4/default_ptr_rotate.png
+SHA1-Digest: mNU/zOaX6LQOamZJlvy+WBtK8E8=
+
+Name: res/drawable/indicator_bg_top.xml
+SHA1-Digest: QnacxqfcXP/JIbHZENF1jpvjB0k=
+
+Name: classes.dex
+SHA1-Digest: Y/3AfxdWu4FmPBOOMUlclaoGx9s=
+
+Name: res/anim/slide_out_to_top.xml
+SHA1-Digest: H2VBEktr3J5Sd9d4O8lBQlWld28=
+
+Name: res/anim/slide_in_from_bottom.xml
+SHA1-Digest: GEZEHMnqalPQTA8qqAgVMDMJQkE=
+
+Name: res/anim/slide_out_to_bottom.xml
+SHA1-Digest: bS/xtcfC9FhwuDyIkNwIWEm03Eo=
+
+Name: res/anim/slide_in_from_top.xml
+SHA1-Digest: 5karK4jgi0ipWbHhX/sibR2oXiQ=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: r4lRwSleePQcQr/eXPg2O5x2HJM=
+
+Name: res/raw/refreshing_sound.mp3
+SHA1-Digest: ktNygVLlalINwj2q1Rp3jONUSKo=
+
+Name: res/raw/reset_sound.mp3
+SHA1-Digest: +UfD5SscK6VX1aAVm+Wdt8gecVM=
+
+Name: res/drawable-mdpi-v4/default_ptr_flip.png
+SHA1-Digest: d9/B/5GdZXIebqoIXVKfe7hOg/o=
+
+Name: res/drawable/indicator_bg_bottom.xml
+SHA1-Digest: V8mPc0td6hfNYNu3MFFq2+BRRHg=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: XEZ97RAFLB3IS2YSUGOMSujQD9o=
+
+Name: res/layout/pull_to_refresh_header_vertical.xml
+SHA1-Digest: XOpMjBpPnhYCoKONnxsWVn0tOwI=
+
