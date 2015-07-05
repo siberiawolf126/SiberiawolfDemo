@@ -5,4 +5,10 @@ import com.jiuli.library.comm.LibraryComm;
 public class Comm extends LibraryComm {
 
 	public static final String SDCARD_IMG_ROOT = SDCARD_ROOT+"/siberiawolf/img";
+	
+	
+	
+	public static final int refreshNum = 100;
+	
+	
 }
